@@ -1,0 +1,82 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "questionText": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Control Processing Unit"],
+    "correctAnswerIndex": 1,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "CPU stands for Central Processing Unit."
+  },
+  {
+    "questionText": "What does RAM stand for?",
+    "options": ["Read Access Memory", "Random Access Memory", "Run Access Memory", "Real-time Access Memory"],
+    "correctAnswerIndex": 1,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "RAM stands for Random Access Memory."
+  },
+  {
+    "questionText": "What is the capital of France? (copy 4)",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "questionText": "What is the capital of France? (copy 5)",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "questionText": "What is the capital of France? (copy 6)",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "questionText": "What is the capital of France? (copy 7)",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "questionText": "What is the capital of France? (copy 8)",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "questionText": "What is the capital of France? (copy 9)",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  },
+  {
+    "questionText": "What is the capital of France? (copy 10)",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswerIndex": 2,
+    "category": "Computer Science",
+    "difficulty": "Easy",
+    "explanation": "Paris is the capital of France."
+  }
+]
