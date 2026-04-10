@@ -2,6 +2,13 @@
 
 An interactive and cross-platform quiz application built using Flutter and Dart. This app presents multiple-choice questions, evaluates user responses, and displays the final score with a clean and intuitive user interface.
 
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
 ## 🚀 Features
 
 - 🧠 Multiple-choice quiz questions
@@ -26,34 +33,8 @@ An interactive and cross-platform quiz application built using Flutter and Dart.
 ---
 
 ## 📂 Project Structure
-# 📱 Flutter Quiz App
 
-An interactive and cross-platform quiz application built using Flutter and Dart. This app presents multiple-choice questions, evaluates user responses, and displays the final score with a clean and intuitive user interface.
 
-## 🚀 Features
-
-- 🧠 Multiple-choice quiz questions
-- 🎯 Real-time answer validation
-- 📊 Score calculation and results screen
-- 🔄 Restart quiz functionality
-- 🎨 Modern and responsive UI
-- 📱 Cross-platform support (Android, iOS, Web, Windows, macOS, Linux)
-- ⚡ Fast performance powered by Flutter
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|------------|---------|
-| Flutter | Cross-platform app development |
-| Dart | Programming language |
-| Material Design | UI Components |
-| Android Studio / VS Code | Development Environment |
-
----
-
-## 📂 Project Structure
 FLUTTER-QUIZ-APP/
 │
 ├── lib/
@@ -82,11 +63,11 @@ FLUTTER-QUIZ-APP/
 
 ## 📸 Screenshots
 
-_Add screenshots to `assets/screenshots/` and update the paths below._
+Add screenshots to `assets/screenshots/` and update the paths below.
 
 | Quiz Screen | Result Screen |
 |-------------|---------------|
-| ![Quiz Screen](assets/screenshots/quiz.png) | ![Result Screen](assets/screenshots/result.png) |
+| ![Quiz](assets/screenshots/quiz.png) | ![Result](assets/screenshots/result.png) |
 
 ---
 
@@ -118,7 +99,7 @@ flutter test
 🏆 Leaderboard and score tracking
 🌙 Dark mode support
 🔊 Sound effects and animations
-☁️ Firebase integration for cloud storage
+☁️ Firebase integration
 📊 Learning Outcomes
 Understanding Flutter widgets and layouts
 State management and UI updates
@@ -145,3 +126,53 @@ If you find this project useful:
 ⭐ Star the repository
 🍴 Fork it for improvements
 📢 Share it with others
+
+---
+
+## 📝 Recommended Commit Message
+
+Use the following commit message when updating the README:
+
+
+docs: refine README by removing duplicates and improving formatting
+
+
+---
+
+## 📌 Update Repository Details
+
+Go to **Repository → About → Edit** and add:
+
+### 📄 Description
+
+A cross-platform quiz application built with Flutter and Dart featuring interactive questions and score tracking.
+
+
+### 🌐 Website
+
+https://github.com/habinrahman/FLUTTER-QUIZ-APP
+
+
+### 🏷️ Topics
+
+flutter dart quiz-app mobile-app cross-platform android ios web
+material-design portfolio-project
+
+
+---
+
+## 🚀 Create the First Release
+
+**Tag:** `v1.0.0`  
+**Title:** `Flutter Quiz App v1.0.0`  
+
+**Description:**
+
+Initial release of the Flutter Quiz App built using Flutter and Dart.
+
+Features:
+
+Interactive multiple-choice quiz
+Real-time score calculation
+Cross-platform support
+Responsive UI with Material Design
