@@ -1,16 +1,56 @@
-# quizapp
+# 📱 Flutter Quiz App
 
-A new Flutter project.
+An interactive and cross-platform quiz application built using Flutter and Dart. This app presents multiple-choice questions, evaluates user responses, and displays the final score with a clean and intuitive user interface.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🧠 Multiple-choice quiz questions
+- 🎯 Real-time answer validation
+- 📊 Score calculation and results screen
+- 🔄 Restart quiz functionality
+- 🎨 Modern and responsive UI
+- 📱 Cross-platform support (Android, iOS, Web, Windows, macOS, Linux)
+- ⚡ Fast performance powered by Flutter
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Cross-platform app development |
+| Dart | Programming language |
+| Material Design | UI Components |
+| Android Studio / VS Code | Development Environment |
+
+---
+
+## 📂 Project Structure
+# 📱 Flutter Quiz App
+
+An interactive and cross-platform quiz application built using Flutter and Dart. This app presents multiple-choice questions, evaluates user responses, and displays the final score with a clean and intuitive user interface.
+
+## 🚀 Features
+
+- 🧠 Multiple-choice quiz questions
+- 🎯 Real-time answer validation
+- 📊 Score calculation and results screen
+- 🔄 Restart quiz functionality
+- 🎨 Modern and responsive UI
+- 📱 Cross-platform support (Android, iOS, Web, Windows, macOS, Linux)
+- ⚡ Fast performance powered by Flutter
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Flutter | Cross-platform app development |
+| Dart | Programming language |
+| Material Design | UI Components |
+| Android Studio / VS Code | Development Environment |
+
+---
+
+## 📂 Project Structure
